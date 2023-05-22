@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kully/static/css/main.5b0ba7b4.css",
+    "main.js": "/Kully/static/js/main.ca853dbe.js",
+    "index.html": "/Kully/index.html",
+    "main.5b0ba7b4.css.map": "/Kully/static/css/main.5b0ba7b4.css.map",
+    "main.ca853dbe.js.map": "/Kully/static/js/main.ca853dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b0ba7b4.css",
+    "static/js/main.ca853dbe.js"
+  ]
+}
